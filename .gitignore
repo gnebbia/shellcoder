@@ -1,0 +1,6 @@
+t/
+example_asm/
+*.asm
+*.exe
+*.obj
+*.o
